@@ -37,6 +37,5 @@ Projetos práticos que aplicam os conceitos aprendidos, utilizando o SDK **BitDo
 ---
 
 ## 📫 **Contato**
-- **Autor:** Micael Balza  
 - **E-mail:** [micaelbalza@hotmail.com](mailto:micaelbalza@hotmail.com)  
 - **LinkedIn:** [Micael Balza](https://www.linkedin.com/in/micael-balza)
